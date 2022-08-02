@@ -9,7 +9,7 @@ Some assumptions was taked about this challenge:
 
 3) When you said "Also, if initialCredit is not 0, a transaction will be sent to the new account" I assume that is necessary create an API that allow two users transact money between two current accounts
 
-Due that, I created an app using DRF (Django Rest Framework) which contains Customers, Current Account and Transaction. Each one of this modules has a CRUD implemented.
+Due that, I created an app using DRF (Django Rest Framework) which contains Customers, Current Account and Transaction. Each one of this modules has a CRUD implemented (except for Transaction module, this one doesn't make sense that an user be able to change or delete an "invoice").
 
 
 
