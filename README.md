@@ -79,6 +79,7 @@ But for the POSTs:
 
 For now we have some things that could be improved, as:
 
+0) OAuth to all services
 1) Implementation of Unit Test
 2) An better data-integrity about Foreign Keys
 3) Comments in the code
