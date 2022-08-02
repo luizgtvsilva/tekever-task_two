@@ -1,0 +1,4 @@
+itsdangerous
+django==3.2.9
+django-rest-framework==0.1.0
+django-rest-swagger==2.2.0

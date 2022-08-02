@@ -1,1 +1,1 @@
-# tekever-task_two
+docker-compose up --build

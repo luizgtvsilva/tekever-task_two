@@ -1,0 +1,18 @@
+[
+    {
+        "model":"task_two.Customer",
+        "pk":1,
+        "fields":{
+            "first_name":"Luiz Gustavo",
+            "last_name":"da Silva"
+        }
+    },
+    {
+        "model":"task_two.Customer",
+        "pk":2,
+        "fields":{
+            "first_name":"Aline",
+            "last_name":"Martins Mastini"
+        }  
+    }
+]
